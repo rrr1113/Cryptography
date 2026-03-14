@@ -1,4 +1,4 @@
-package domasna1;
+package substitution;
 
 public class substitution_decryption {
 }

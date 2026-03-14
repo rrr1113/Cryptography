@@ -1,4 +1,4 @@
-package domasna1;
+package substitution;
 
 import java.util.Scanner;
 
