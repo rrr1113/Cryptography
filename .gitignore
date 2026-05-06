@@ -14,6 +14,7 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+/src/substitution/returning_same_letters
 
 ### NetBeans ###
 /nbproject/private/
